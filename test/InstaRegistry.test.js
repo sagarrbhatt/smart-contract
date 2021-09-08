@@ -45,3 +45,5 @@ contract('InstaRegistry', accounts => {
     )
   })
 })
+
+// Soon I will master this code in such a way that I am able to understand everything that is there and I fucking promise
